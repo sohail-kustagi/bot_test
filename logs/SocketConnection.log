@@ -1,0 +1,1193 @@
+2025-04-14 19:53:06 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-14 19:53:06 [DEBUG] WebSocket connection established
+2025-04-14 19:53:06 [DEBUG] Login with: {'Id': '2293de30-2528-4e77-a320-7e5682c84f7e', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744640586944, 'Signature': 'qTb+bbwYyKEqyeMjaHvr02QQabnT8Dy0xHaJfjWekB4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 00:36:29 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 00:36:29 [DEBUG] WebSocket connection established
+2025-04-15 00:36:29 [DEBUG] Login with: {'Id': 'dd0d43f0-7205-4376-864a-a5d315a4ec45', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744657589951, 'Signature': '/1Hc7xx0RYpS/FTlsHQL5H5IpfDXWxC1zNy0qDto0As=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 00:43:44 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 00:43:45 [DEBUG] WebSocket connection established
+2025-04-15 00:43:45 [DEBUG] Login with: {'Id': '0bfbf12b-6420-4fd7-9201-0b21db9513d9', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744658025350, 'Signature': 'tMS3Vcplyo0VXrQbHL7UYjHMgnxI8zkaUyX7rGb/7z4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 00:52:02 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 00:52:03 [DEBUG] WebSocket connection established
+2025-04-15 00:52:03 [DEBUG] Login with: {'Id': '6b953d0d-30a5-4169-82fd-062272f9d3ca', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744658523002, 'Signature': 'Gw6AoqOMxFkdwSIZzpNRNU1f6Y2LpLGQrKA4XJerYXI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 00:54:24 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 00:54:25 [DEBUG] WebSocket connection established
+2025-04-15 00:54:25 [DEBUG] Login with: {'Id': 'b9bb88ba-373d-4295-8747-65532098e0d8', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744658665334, 'Signature': 'lPiVZU3+dA9pmlIJ2dbxRAba1y1Ykcu5qVliDJGwvVI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 00:58:28 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 00:58:29 [DEBUG] WebSocket connection established
+2025-04-15 00:58:29 [DEBUG] Login with: {'Id': '73cb539f-b8a0-48be-96f6-4809ac097ed0', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744658909146, 'Signature': 'XFJM9J7RRdNbXf/BbbqePe3KLqk6TeUHoY/x2HdIdzs=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 23:02:52 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 23:02:52 [DEBUG] WebSocket connection established
+2025-04-15 23:02:52 [DEBUG] Login with: {'Id': 'd0efa22e-b2a5-42e1-826b-5db8b819c2b9', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744738372780, 'Signature': 'e8AOcxyhAydDmD8zL979yQPLxOdQ6BwSOnRttt8Vl4I=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 23:05:50 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 23:05:51 [DEBUG] WebSocket connection established
+2025-04-15 23:05:51 [DEBUG] Login with: {'Id': '31aa6f33-09d3-43be-9b57-3e58337c36aa', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744738551023, 'Signature': 'rl7hluyoXfdia2Ui75Z6zbv7cxWKT+Uv35g1plvGriY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 23:06:50 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 23:06:51 [DEBUG] WebSocket connection established
+2025-04-15 23:06:51 [DEBUG] Login with: {'Id': 'e4865981-d19c-4605-ac53-c64424e2f504', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744738611464, 'Signature': 'BYCuy+jfSXsYKPcYHsyl+O/ly7uLwMABzDbjHDp8+20=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 23:27:47 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 23:27:59 [DEBUG] WebSocket connection established
+2025-04-15 23:27:59 [DEBUG] Login with: {'Id': 'ce447469-6165-47a0-aa4d-6c1ba8bc010e', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744739879765, 'Signature': 'ZbNNlTGSSDAEMUeTulQA4z0CL6gLJbFc0RaQP5nd6l4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 23:45:53 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 23:45:54 [DEBUG] WebSocket connection established
+2025-04-15 23:45:54 [DEBUG] Login with: {'Id': 'd79a79bb-2585-4009-abe8-ce71396ee4ee', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744740954070, 'Signature': 'ZZIt6fJMkMFupofRFaoGKIABB7HQ81K8TVhYhoqBHQw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 23:46:15 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 23:46:16 [DEBUG] WebSocket connection established
+2025-04-15 23:46:16 [DEBUG] Login with: {'Id': '335936fb-bedd-4c53-93bd-8cf1eb1624b0', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744740976622, 'Signature': 'A7ypj0sm089zm6gyrFTtZ81r7fJbZGjrLbbw3P5iZEI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-15 23:57:17 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-15 23:57:18 [DEBUG] WebSocket connection established
+2025-04-15 23:57:18 [DEBUG] Login with: {'Id': '0a3a0d0a-8dc0-45a5-8773-21aa80a675a0', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744741638472, 'Signature': 'oIuMNq+XOK18g6o+LWiaqRZOJy+FVUeFPUwRE1mSD3c=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 00:29:54 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 00:29:54 [DEBUG] WebSocket connection established
+2025-04-17 00:29:54 [DEBUG] Login with: {'Id': '9ccd7128-5deb-4aea-9419-b57fbcd7add6', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744829994908, 'Signature': 'xS+IR/KV0Nj/gOhxg42b9YVXg6nKacmRCtJ+6TEizM8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 00:35:35 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 00:35:35 [DEBUG] WebSocket connection established
+2025-04-17 00:35:35 [DEBUG] Login with: {'Id': 'd9118007-11da-4c55-8b03-525bce0597ab', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744830335954, 'Signature': 'GJ5b+zIFF9JynL7lcDSb0OZCvK//VCcxsNOTo5/2hPY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 23:11:01 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 23:11:02 [DEBUG] WebSocket connection established
+2025-04-17 23:11:02 [DEBUG] Login with: {'Id': 'b797e244-8601-434a-b5ac-cfce7e1e1128', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744911662467, 'Signature': '+DvkdSyawVEIAmwqQk20/YkdrDd5kiF6HRl63N5K6RI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 23:14:07 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 23:14:07 [DEBUG] WebSocket connection established
+2025-04-17 23:14:07 [DEBUG] Login with: {'Id': '14ccac00-4e4e-4cc7-a537-0449497290a6', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744911847906, 'Signature': 'reA2M721GZBZNmvlsss7m27EUMtiIA3bepxjK9G63YM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 23:15:42 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 23:15:43 [DEBUG] WebSocket connection established
+2025-04-17 23:15:43 [DEBUG] Login with: {'Id': '2739048d-27ef-4d46-bb08-1833903571f1', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744911943488, 'Signature': 'iJhBmTQeSThlxLlBb8dnYJAeHutv4kw0QVfv216Dvd0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 23:21:38 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 23:21:39 [DEBUG] WebSocket connection established
+2025-04-17 23:21:39 [DEBUG] Login with: {'Id': 'e475f191-c243-4eb2-8f11-38d70e61521b', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744912299176, 'Signature': 'WQc9YbmykM1id7txDQnjczQW2IJyQRegKqaX6Xvzb7M=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 23:23:52 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 23:23:53 [DEBUG] WebSocket connection established
+2025-04-17 23:23:53 [DEBUG] Login with: {'Id': '0905ba0e-b580-44df-a3f3-dbcee108f856', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744912433573, 'Signature': '0pVywkjlTeCtU9YW2Kyed1EQLHLOxFWSRG6TkH3/8t4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 23:31:39 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 23:31:40 [DEBUG] WebSocket connection established
+2025-04-17 23:31:40 [DEBUG] Login with: {'Id': 'a038a2ea-1186-48b8-b8ff-d0467c65ee15', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744912900832, 'Signature': 'yLoopS+nO2bXBARfQsTBeaC9HbrsNiFPFtSFWgi0Wio=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 23:33:40 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 23:33:41 [DEBUG] WebSocket connection established
+2025-04-17 23:33:41 [DEBUG] Login with: {'Id': 'f76516fa-419e-4ea3-b415-4bbbd2410574', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744913021216, 'Signature': '+KGzGSQOtRySQHvvGfrk85bJ5PX3MKpKsclvgx5+9ug=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 23:44:48 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 23:44:48 [DEBUG] WebSocket connection established
+2025-04-17 23:44:48 [DEBUG] Login with: {'Id': 'edd04acc-e04a-421f-b443-98b1f80989f8', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744913688850, 'Signature': 'UPsZg6VsCjezf1DaZTJpqCdRuCYdU4VJl3tFe1gv1v4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 23:47:55 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 23:47:55 [DEBUG] WebSocket connection established
+2025-04-17 23:47:55 [DEBUG] Login with: {'Id': '5e17ae02-9357-4927-bbda-f67ad532b513', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744913875981, 'Signature': 'Ywmi+MT7AcGhV+gMn69Xd+XG4bl8lizBDfdSI1Q6pYA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-17 23:56:42 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-17 23:56:43 [DEBUG] WebSocket connection established
+2025-04-17 23:56:43 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744914403206, 'Signature': 'laBcoCjREqbdMmPwh8ftoUmdpDXklcXDCjdzlUmAv74=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:15:41 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:15:41 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:15:42 [DEBUG] WebSocket connection established
+2025-04-18 02:15:42 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744922742948, 'Signature': 'qKh0A7MC/7doywqMOsmIARkJe9lqMWmVezZKk9nk5Wg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:31:38 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:31:38 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:31:39 [DEBUG] WebSocket connection established
+2025-04-18 02:31:39 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744923699472, 'Signature': 'ZDfqUj10brPArV3lBbTcsttmfRVLP1TDkLeFPjLPqpo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:33:20 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:33:20 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:33:20 [DEBUG] WebSocket connection established
+2025-04-18 02:33:20 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744923800949, 'Signature': 'jpgISgzBEDiNP1kgDJx0LGZxWL4m6o0XVfAsUaKrQJM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:35:01 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:35:01 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:35:02 [DEBUG] WebSocket connection established
+2025-04-18 02:35:02 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744923902325, 'Signature': 'TBPH91BCfIjDp77agDEe33IZSuJQL/wm6NO/UFS65yQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:36:42 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:36:42 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:36:43 [DEBUG] WebSocket connection established
+2025-04-18 02:36:43 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744924003906, 'Signature': 'VUWY1uRVEdgVf7ntjjexwv9VJUt5sVqIh/R8IMi28i0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:38:24 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:38:24 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:38:25 [DEBUG] WebSocket connection established
+2025-04-18 02:38:25 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744924105385, 'Signature': '0W0rdJMbAY9cOtQZFes5cQJpUSM5zH59jTmRJKdzs5g=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:40:05 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:40:05 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:40:06 [DEBUG] WebSocket connection established
+2025-04-18 02:40:06 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744924206764, 'Signature': 'yh5t5+vWWnHGMMMbOE0KywJmzRNIglSxmY7M4T3M4Tk=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:41:47 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:41:47 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:41:48 [DEBUG] WebSocket connection established
+2025-04-18 02:41:48 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744924308241, 'Signature': 'ClHfnXg93hntmOiP/AYKDiIgzy32jrfWUpuIBr8PBco=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:43:28 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:43:28 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:43:29 [DEBUG] WebSocket connection established
+2025-04-18 02:43:29 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744924409699, 'Signature': '+M/oDnicSECZ9kJZZRaAxuqxEAsAUbSibdd/OMyQozQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:45:10 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:45:10 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:45:11 [DEBUG] WebSocket connection established
+2025-04-18 02:45:11 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744924511197, 'Signature': 'YpEFGhp39Ze14txJUeBgINtr4KoKRepWeZw2kfE9ebk=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:46:51 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:46:51 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:46:52 [DEBUG] WebSocket connection established
+2025-04-18 02:46:52 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744924612676, 'Signature': 'GxaiWiuhsqeC5+rbzCZnfPML2G7wVot83m/ztHz4fg0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:48:33 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:48:33 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:48:34 [DEBUG] WebSocket connection established
+2025-04-18 02:48:34 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744924714155, 'Signature': 'Nc5bMkgRTHapzPIGO9AXuoLOD8+VII6J+m2HPsf7wZU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:50:14 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:50:14 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:50:15 [DEBUG] WebSocket connection established
+2025-04-18 02:50:15 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744924815640, 'Signature': 'XgIobWvoI5khy7Qc7Md4eKkcmFX6SMT+6+XZQ28Lk38=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:51:56 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:51:56 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:51:57 [DEBUG] WebSocket connection established
+2025-04-18 02:51:57 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744924917125, 'Signature': 'oXCata7zb3G4CsrtmboB/gAb3ALuc3oTyeisXOwZZng=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:53:37 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:53:37 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:53:38 [DEBUG] WebSocket connection established
+2025-04-18 02:53:38 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744925018511, 'Signature': 'b5N1plmYvojd88TSRK/I1JPeEfJmSaDnWcqSvPxBvE0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:55:19 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:55:19 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:55:20 [DEBUG] WebSocket connection established
+2025-04-18 02:55:20 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744925120092, 'Signature': '5ld9LwBVKCQqmoJs+3FFN7hlcBd5NJYSaQw5Esg7Hu8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:57:00 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:57:00 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:57:01 [DEBUG] WebSocket connection established
+2025-04-18 02:57:01 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744925221575, 'Signature': '2Iz1xtv7h16glE9TKYw4EzFrCP3mM4tjFHQo0gPWixU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 02:58:42 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 02:58:42 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 02:58:42 [DEBUG] WebSocket connection established
+2025-04-18 02:58:42 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744925322955, 'Signature': 'Er+w+cBHbk6VgJGxzv+ycF3DEBXV5wDq753tuPpXIgg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:00:23 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:00:23 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:00:24 [DEBUG] WebSocket connection established
+2025-04-18 03:00:24 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744925424276, 'Signature': 'sjmGDmpuKDyL9uUOKu0u7tQ2cTEtBET0GXdU3lUwbss=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:02:04 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:02:04 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:02:05 [DEBUG] WebSocket connection established
+2025-04-18 03:02:05 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744925525611, 'Signature': '5861cSXz1MtQK1WPjFIEs8ci4w2OfSgm/+nz+5hqumo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:03:46 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:03:46 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:03:47 [DEBUG] WebSocket connection established
+2025-04-18 03:03:47 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744925627191, 'Signature': 'U2aT1M0xnwAfk9P/uFBslhHD8H2EuO+hI87k1vNdVUw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:05:27 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:05:27 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:05:28 [DEBUG] WebSocket connection established
+2025-04-18 03:05:28 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744925728673, 'Signature': '8+0IgVPGijREAEEDFp7wJ1e7HDWij18v2B5eqlQ56mw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:07:09 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:07:09 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:07:10 [DEBUG] WebSocket connection established
+2025-04-18 03:07:10 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744925830050, 'Signature': 'BnHx+XBSfomfEQDgxYgGGWfp0tSgmqMzasrMTxclSVE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:08:50 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:08:50 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:08:51 [DEBUG] WebSocket connection established
+2025-04-18 03:08:51 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744925931632, 'Signature': '5ef/vkkAPMMVCQJli1GqG76fTZZzgUJfA9Y9Pb/EQ0M=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:10:32 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:10:32 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:10:33 [DEBUG] WebSocket connection established
+2025-04-18 03:10:33 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744926033112, 'Signature': 'C9iCkhVD5dBaooDvcs6ag8bXJZ+o4ryZcTzlaY4XUWk=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:12:13 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:12:13 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:12:14 [DEBUG] WebSocket connection established
+2025-04-18 03:12:14 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744926134490, 'Signature': 'GtPxzcsC9Bt5Efw6yQugkfAIixpglabwpUIkAMPDh6E=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:13:55 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:13:55 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:13:55 [DEBUG] WebSocket connection established
+2025-04-18 03:13:55 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744926235970, 'Signature': '+sIuEkmEf+n0okkKhBNQQsmtYLTaVW7oy0VS537er1A=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:15:36 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:15:36 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:15:37 [DEBUG] WebSocket connection established
+2025-04-18 03:15:37 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744926337449, 'Signature': 'OqZsYDFR4hByGcAaU6aFwceHTYWNzh3TzLh5g0ZDmsA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:17:18 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:17:18 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:17:18 [DEBUG] WebSocket connection established
+2025-04-18 03:17:18 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744926438827, 'Signature': 'rXIB5Ar1A5NOF1dbu0cetNBwsAhxop3oo5XfcZQID9Y=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:18:59 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:18:59 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:19:00 [DEBUG] WebSocket connection established
+2025-04-18 03:19:00 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744926540308, 'Signature': 'RqOXYAokPPOn5/Epjk3qNJL+PqQyIvg1RCONWx0QZaE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:20:40 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:20:40 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:20:41 [DEBUG] WebSocket connection established
+2025-04-18 03:20:41 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744926641636, 'Signature': 'asJ+nWsoElhpd6/cGNSN7DIi7dglK2MjzWUVHuSDN28=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:22:22 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:22:22 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:22:22 [DEBUG] WebSocket connection established
+2025-04-18 03:22:22 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744926742958, 'Signature': 'jn7pc6fOy8eQuXDcNCjqg3/CUqImQFeByOixMUELfFE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:24:03 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:24:03 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:24:04 [DEBUG] WebSocket connection established
+2025-04-18 03:24:04 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744926844436, 'Signature': 'Cvr/gjFKA0GFg8uAYGRyr7S6Y25IuGp7jDLfXe1UMiU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:25:44 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:25:44 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:25:45 [DEBUG] WebSocket connection established
+2025-04-18 03:25:45 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744926945711, 'Signature': 'wxq5IKhHcTuJhEn+GlHGVcjHW8wACU78wHiaGsA+e/c=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:27:26 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:27:26 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:27:26 [DEBUG] WebSocket connection established
+2025-04-18 03:27:26 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744927046779, 'Signature': 'A/DPLzz/rOrF9pTQdhdku10VdxT20IcmL4TwEZFWejM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:29:07 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:29:07 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:29:08 [DEBUG] WebSocket connection established
+2025-04-18 03:29:08 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744927148053, 'Signature': 'VI4AGaKn2fajRgGRM/ib1fpfH4WVVX7IS9eY0DgEPwo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:30:48 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:30:48 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:30:49 [DEBUG] WebSocket connection established
+2025-04-18 03:30:49 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744927249532, 'Signature': 'foukZydRoK9QARSZuaZjSaCh+31Zyz7EhCJeTBRMf8E=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:32:30 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:32:30 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:32:31 [DEBUG] WebSocket connection established
+2025-04-18 03:32:31 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744927351011, 'Signature': 'mGJ0iXm+kPNZuhfw+TJTTdqtAeKu0uTQ5a8XaHcBSVQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:34:11 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:34:11 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:34:12 [DEBUG] WebSocket connection established
+2025-04-18 03:34:12 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744927452695, 'Signature': '5aPEZnL0CrUeYOPrktfFjZRn89CGwWkQldZ8cU1ZLyo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:35:53 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:35:53 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:35:54 [DEBUG] WebSocket connection established
+2025-04-18 03:35:54 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744927554071, 'Signature': 'K4JhoulQcoCHwYZv28y23YYXgataN6W9VZSe5Ca5tMw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:37:34 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:37:34 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:37:35 [DEBUG] WebSocket connection established
+2025-04-18 03:37:35 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744927655346, 'Signature': 'JPHFnIkqOGrHdHbKtwBlSKRfyX5ZivrU3UVqX7PtbAo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:39:16 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:39:16 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:39:17 [DEBUG] WebSocket connection established
+2025-04-18 03:39:17 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744927757131, 'Signature': 'Of54+LpwCBdO/Sn/K4FVu0l3+XQKnGTEffZ851NRdwM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:40:57 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:40:57 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:40:58 [DEBUG] WebSocket connection established
+2025-04-18 03:40:58 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744927858405, 'Signature': 'hB7vO0+wIVW8p8QL7hd0tnkWObew3KhiGSwQ/GDUIoo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:42:38 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:42:38 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:42:39 [DEBUG] WebSocket connection established
+2025-04-18 03:42:39 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744927959680, 'Signature': 'IKfQc9N4+7ea60NHdfSG/2+/ZFymoWmWaj7uWX8H+wM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:44:20 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:44:20 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:44:21 [DEBUG] WebSocket connection established
+2025-04-18 03:44:21 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744928061057, 'Signature': 's7zpSUW8bnl7J/4BNUj5JJY+pWcm5XdvdqKRPANYDtM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:46:01 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:46:01 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:46:02 [DEBUG] WebSocket connection established
+2025-04-18 03:46:02 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744928162434, 'Signature': 'mRTKJbXvO0CAbBT7twHpU5CDCpCiR3LNhNSwH9Hrmm4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:47:42 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:47:42 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:47:43 [DEBUG] WebSocket connection established
+2025-04-18 03:47:43 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744928263812, 'Signature': '8Iu6glsNTZ0w57wI4rpLzCgvHb9YMToWSmHiCs5A8+k=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:49:24 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:49:24 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:49:25 [DEBUG] WebSocket connection established
+2025-04-18 03:49:25 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744928365188, 'Signature': 'a3PLLXOYIEFHXmfGBxgqjyBdK6Ru0UCoxIh2DJ2qrxc=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:51:05 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:51:05 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:51:06 [DEBUG] WebSocket connection established
+2025-04-18 03:51:06 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744928466769, 'Signature': 'yRsC/muT5bXJuPqXfWRYDUWWBPU5rxKBQ1eF+dE7CkA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:52:47 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:52:47 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:52:48 [DEBUG] WebSocket connection established
+2025-04-18 03:52:48 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744928568248, 'Signature': 'zWInfN3ooJymO7l8JslcSBRFxwJ+YDW/h5YXErgHRgA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:54:28 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:54:28 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:54:29 [DEBUG] WebSocket connection established
+2025-04-18 03:54:29 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744928669727, 'Signature': 'ZzQSRJ4Q//SJrHI85orZ3E3Tu0wL/GrFpmLFjb6Zy9s=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:56:10 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:56:10 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:56:11 [DEBUG] WebSocket connection established
+2025-04-18 03:56:11 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744928771206, 'Signature': 'b5lA5eu3eTCeGjxKeK1f4sXaP5ZBvHXoHHQjVTepWqg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:57:51 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:57:51 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:57:52 [DEBUG] WebSocket connection established
+2025-04-18 03:57:52 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744928872686, 'Signature': 'qSlsKHtwp23DM7UZaoDEQ3muZ/PFHtP3oHumRdbnK9c=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 03:59:33 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 03:59:33 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 03:59:34 [DEBUG] WebSocket connection established
+2025-04-18 03:59:34 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744928974168, 'Signature': 'FrirYzmP2TQZZGuNS5MzcvkQwPB1rqwl6AXTWxda2wo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:01:14 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:01:14 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:01:15 [DEBUG] WebSocket connection established
+2025-04-18 04:01:15 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744929075546, 'Signature': 'YysBqem+Z0Y0Rysgbi88nNv4n9UW/tGwolnnXDRQ7pk=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:02:56 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:02:56 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:02:56 [DEBUG] WebSocket connection established
+2025-04-18 04:02:56 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744929176822, 'Signature': 'iyDVtKssYkr2skQ7DpJ7raacOS6U2Oo8kSGjJp9C5fE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:04:37 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:04:37 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:04:38 [DEBUG] WebSocket connection established
+2025-04-18 04:04:38 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744929278097, 'Signature': '7YFHholkGBzBD9dAL8zy4uHKEyP6s64NOWmP5cnPbwc=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:06:18 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:06:18 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:06:19 [DEBUG] WebSocket connection established
+2025-04-18 04:06:19 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744929379578, 'Signature': 'IZN/mx45ysxOEVnK9YpEYSwUzyibOiuX6LySWAoJ92A=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:08:00 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:08:00 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:08:00 [DEBUG] WebSocket connection established
+2025-04-18 04:08:00 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744929480853, 'Signature': 'wJxPFwvmnT4CJezy436t/kCvyLyVoYbXTMcPsBGnHLU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:09:41 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:09:41 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:09:42 [DEBUG] WebSocket connection established
+2025-04-18 04:09:42 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744929582128, 'Signature': 'wOfU/NfUcuP02Rv+9y50NH+t6U92dpeXikwu0M4hCgE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:11:22 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:11:22 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:11:23 [DEBUG] WebSocket connection established
+2025-04-18 04:11:23 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744929683612, 'Signature': 'wRzkH09dc82UXjrR9lQvS/7+hvQFsxmY7SGqDt1FbYc=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:13:04 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:13:04 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:13:05 [DEBUG] WebSocket connection established
+2025-04-18 04:13:05 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744929785089, 'Signature': 'IK6qt5m4tD3//LGPYGRcJwdrWEDB8sgXyCG3Ui/3xF8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:14:45 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:14:45 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:14:46 [DEBUG] WebSocket connection established
+2025-04-18 04:14:46 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744929886670, 'Signature': 'FTK4ufS63+RtU+HbQPL9cpPC9yyoKeEVzqU0hrYUV/s=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:16:27 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:16:27 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:16:28 [DEBUG] WebSocket connection established
+2025-04-18 04:16:28 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744929988252, 'Signature': '+2zj9jDTmTTD2MoU48EKNTgVKWquhxblwfYxeKnMyA8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:18:08 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:18:08 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:18:09 [DEBUG] WebSocket connection established
+2025-04-18 04:18:09 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744930089631, 'Signature': 'l7Xb72+TWDHbzq0WTE/O5V8YdL2CJBfHhD44oTOcI0w=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:19:50 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:19:50 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:19:51 [DEBUG] WebSocket connection established
+2025-04-18 04:19:51 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744930191100, 'Signature': 'RqukWpqN4B3gC3y5dyc25yx/2C8euzw7AjFEag18y/0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:21:27 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:21:27 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:21:28 [DEBUG] WebSocket connection established
+2025-04-18 04:21:28 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744930288186, 'Signature': 'tEmNZmhqDhuY9YV0lIJeSZ0gi5I1JyvIBStfwifCbPI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:23:08 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:23:08 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:23:09 [DEBUG] WebSocket connection established
+2025-04-18 04:23:09 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744930389460, 'Signature': 'KegBfhar296rl0adAl6xUIQo/IhAqLLfeA5zhtCv2Vs=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:24:50 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:24:50 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:24:50 [DEBUG] WebSocket connection established
+2025-04-18 04:24:50 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744930490839, 'Signature': 'JfLV6STOapo+MmZPvtbIDI0D42ZyYGDZOHlMrjBLlkg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:26:31 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:26:31 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:26:32 [DEBUG] WebSocket connection established
+2025-04-18 04:26:32 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744930592215, 'Signature': 'vFhg3qpBSdzt9+3OwZD8VEuxl2NDAjhQcA00Kgt0zUs=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:28:12 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:28:12 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:28:13 [DEBUG] WebSocket connection established
+2025-04-18 04:28:13 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744930693592, 'Signature': 'u6eRT+xiyKZ7PdkTwP+ntfCYQ1p7xoGOfXEVAPl/C5A=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:29:54 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:29:54 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:29:54 [DEBUG] WebSocket connection established
+2025-04-18 04:29:54 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744930794970, 'Signature': 'I3+cS+XjPbv3ueoN6tJZrG/nXGzrFIcawMIYPullWik=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:31:35 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:31:35 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:31:36 [DEBUG] WebSocket connection established
+2025-04-18 04:31:36 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744930896344, 'Signature': '8pubOkfRMOa6Xr+S1qlnFRMvFs0n/f7EyPGd68AEl7k=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:33:16 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:33:16 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:33:17 [DEBUG] WebSocket connection established
+2025-04-18 04:33:17 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744930997642, 'Signature': 'vsMT+Ttvgv0E0YKN+nJTGAWd3nnweuS9Y0qhT5Fpdpg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:34:58 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:34:58 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:34:58 [DEBUG] WebSocket connection established
+2025-04-18 04:34:58 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744931098977, 'Signature': '91EaQrcQxMx7dWh6NZlLoeZQARevTP4vGU3Y7AEJ9Ao=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:36:39 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:36:39 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:36:40 [DEBUG] WebSocket connection established
+2025-04-18 04:36:40 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744931200348, 'Signature': 'muQqNzkFgiSR09wiZZNlQYqROJPAExf8DgnoRqU1eP0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:38:20 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:38:20 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:38:21 [DEBUG] WebSocket connection established
+2025-04-18 04:38:21 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744931301719, 'Signature': 'b3ZwLWFh0UUV8FODHIai88PQ4iMrTcpqvpIQoYl/jTw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:40:02 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:40:02 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:40:03 [DEBUG] WebSocket connection established
+2025-04-18 04:40:03 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744931403089, 'Signature': '5o+wpsZdwzPj+W6ctVjECAJ/Cm1Mnj8Ua6QJfdMN2O4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:41:43 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:41:43 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:41:44 [DEBUG] WebSocket connection established
+2025-04-18 04:41:44 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744931504258, 'Signature': 'M/NCLZUmDLC7izV7dpWQa8fpm6hE0YNWqExgDbmw1hg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:43:24 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:43:24 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:43:25 [DEBUG] WebSocket connection established
+2025-04-18 04:43:25 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744931605528, 'Signature': 'eeYnJSGQJhO5KywuCIWM4LdEKahogEITZFwYppZUg1I=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:45:06 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:45:06 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:45:07 [DEBUG] WebSocket connection established
+2025-04-18 04:45:07 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744931707005, 'Signature': 'bCtz8zuXl0r8cnPpXrqAT7Twl18HPTRS9TkfUJArP9A=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:46:47 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:46:47 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:46:48 [DEBUG] WebSocket connection established
+2025-04-18 04:46:48 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744931808380, 'Signature': 'ygBD543v7xf6DfbLBGdjUv+nR/vIYL5LjOydVSDmzdU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:48:28 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:48:28 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:48:29 [DEBUG] WebSocket connection established
+2025-04-18 04:48:29 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744931909752, 'Signature': 'kw8TcCubm3E2Q9WD5O7ME6vhiJp6JIId+VVBzGEo+5w=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:50:10 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:50:10 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:50:11 [DEBUG] WebSocket connection established
+2025-04-18 04:50:11 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744932011332, 'Signature': '1VWgi8vCuufHgFzEaW50AXsOBOUE+Bcke3f/qRZl6iE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:51:51 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:51:51 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:51:52 [DEBUG] WebSocket connection established
+2025-04-18 04:51:52 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744932112808, 'Signature': 'PdtHIk/Y0ITCXURY9UbTGNKkbv1k2feE5YjmUefjAoY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:53:33 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:53:33 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:53:33 [DEBUG] WebSocket connection established
+2025-04-18 04:53:33 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744932213980, 'Signature': 'iVwBkyJuOB1vbZBZY65Zycto98jNdj7qHjyr5c+Y0FQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:55:14 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:55:14 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:55:15 [DEBUG] WebSocket connection established
+2025-04-18 04:55:15 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744932315251, 'Signature': 'vdNIwzcaeryek25k4ARBZlHAL/4/mQAmNagpei9oKcA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:56:55 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:56:55 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:56:56 [DEBUG] WebSocket connection established
+2025-04-18 04:56:56 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744932416525, 'Signature': 'NVpkZFMmZaJam1Jm0iT7VaJJ/50f4hrVQ/GZSLhEiyw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 04:58:36 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 04:58:36 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 04:58:37 [DEBUG] WebSocket connection established
+2025-04-18 04:58:37 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744932517798, 'Signature': 'VBxQMMcL1XXC+S9Zzx6staVmjOriKdCICX/5BoDbFmw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:00:18 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:00:18 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:00:19 [DEBUG] WebSocket connection established
+2025-04-18 05:00:19 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744932619380, 'Signature': 'Xpaxw77E4l6pPVL3y2Ya4vsLla6iouupWkq4eG+4Y58=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:02:00 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:02:00 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:02:00 [DEBUG] WebSocket connection established
+2025-04-18 05:02:00 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744932720958, 'Signature': 'fA6IPtWUJZUcafSpKzDxWC8cq6154MZ1WzhovlfY0gE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:03:41 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:03:41 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:03:42 [DEBUG] WebSocket connection established
+2025-04-18 05:03:42 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744932822539, 'Signature': 'Gms8NxKGPHTJbaoMvYHZRefaThcfGEKkrjJ9KnL6YCI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:05:23 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:05:23 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:05:23 [DEBUG] WebSocket connection established
+2025-04-18 05:05:23 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744932923980, 'Signature': 'Vi2v6hj6EC+akSV4LHhM1LuniEZlzBOTq2yAznr0pBc=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:07:04 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:07:04 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:07:05 [DEBUG] WebSocket connection established
+2025-04-18 05:07:05 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744933025290, 'Signature': '3Y3+8WzHo2kU6uGHYgivfrv5HS9RNl3XqCtf9YF36EI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:08:45 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:08:45 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:08:46 [DEBUG] WebSocket connection established
+2025-04-18 05:08:46 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744933126768, 'Signature': 'UFFW21xYvHbVLdS548ejWjIfwK6NbOpOT1icLXyAbM0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:10:27 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:10:27 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:10:28 [DEBUG] WebSocket connection established
+2025-04-18 05:10:28 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744933228247, 'Signature': 'Cut2sOwiaQe+6Z5c7g4HZ8JLrsdYNn7YG6iBBh41jeQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:12:08 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:12:08 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:12:09 [DEBUG] WebSocket connection established
+2025-04-18 05:12:09 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744933329725, 'Signature': 'MhuBPN5Y44awEaWCzd1291fXWdvVji1J3/iRMs/cBL8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:13:50 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:13:50 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:13:51 [DEBUG] WebSocket connection established
+2025-04-18 05:13:51 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744933431203, 'Signature': 'sD2Ks9faGPw2jLX7PCE6vPcgeNTuAnNERJeaIBVrHN4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:15:31 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:15:31 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:15:32 [DEBUG] WebSocket connection established
+2025-04-18 05:15:32 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744933532578, 'Signature': 'tiYQW/TuXxChSrXzreoeW9RwiHOrjld5CCMP3vaWxek=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:17:13 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:17:13 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:17:13 [DEBUG] WebSocket connection established
+2025-04-18 05:17:13 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744933633954, 'Signature': 'EbeJXdz0bcBrK3vBYwqOnUr/CzvH+KXveUg5ne/liGQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:18:54 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:18:54 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:18:55 [DEBUG] WebSocket connection established
+2025-04-18 05:18:55 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744933735331, 'Signature': 'E79oxboqnIvITU98mv8VoTzt1pM+NpX9tZaP5rDkm3s=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:20:35 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:20:35 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:20:36 [DEBUG] WebSocket connection established
+2025-04-18 05:20:36 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744933836683, 'Signature': '8OLikY2yNqTSwhVCg/apjpSr8tFxaTK0349YWTeJiFA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:22:17 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:22:17 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:22:17 [DEBUG] WebSocket connection established
+2025-04-18 05:22:17 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744933937877, 'Signature': 'AFgcQwq09nz7TI7JXLGUpg1b9zacKOcSu76wOjuydvc=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:23:58 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:23:58 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:23:59 [DEBUG] WebSocket connection established
+2025-04-18 05:23:59 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744934039151, 'Signature': 'aS7jyRQedll2rSXDI/jDGRoitEHiIlOLcEad1myV43Q=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:25:39 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:25:39 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:25:40 [DEBUG] WebSocket connection established
+2025-04-18 05:25:40 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744934140731, 'Signature': 'Qb2NVVMqqsr9OHJkZFBI800pb27sMkmKn5jqdZNusN8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:27:21 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:27:21 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:27:22 [DEBUG] WebSocket connection established
+2025-04-18 05:27:22 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744934242231, 'Signature': 'w0w5muPDQ3QWLXeFpQNpHlDbWx/ozdg8csvuyQ5Jfoo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:29:02 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:29:02 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:29:03 [DEBUG] WebSocket connection established
+2025-04-18 05:29:03 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744934343586, 'Signature': '9WcQXi0vPiUeT5DhxFxJgn+WY5EmMQoA1EWT0J7CHwU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:30:44 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:30:44 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:30:44 [DEBUG] WebSocket connection established
+2025-04-18 05:30:44 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744934444859, 'Signature': 'kEwdbLF/JUp6YPvEqOGCn+CJvLD7xGj/TTlDv5iZuSc=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:32:25 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:32:25 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:32:26 [DEBUG] WebSocket connection established
+2025-04-18 05:32:26 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744934546133, 'Signature': '2ZmY8/fnkYFcUebGkbycp28uIx+uDrjTq8+SE0v0AmE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:34:06 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:34:06 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:34:07 [DEBUG] WebSocket connection established
+2025-04-18 05:34:07 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744934647406, 'Signature': 'V/uh4pKiATCW1rTMq2HxuC/sbm2/xwPfHh/rpRw8YMY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:35:47 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:35:47 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:35:48 [DEBUG] WebSocket connection established
+2025-04-18 05:35:48 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744934748783, 'Signature': '30rG8iaK9q0pGuJjU4yAVIutG87GpVXoiD5BF8W9fPE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:37:29 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:37:29 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:37:30 [DEBUG] WebSocket connection established
+2025-04-18 05:37:30 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744934850158, 'Signature': 'jxzln4wNZJ5JiiblvNd11slCMpT7Fh4UP/kyyBnt304=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:39:10 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:39:10 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:39:11 [DEBUG] WebSocket connection established
+2025-04-18 05:39:11 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744934951432, 'Signature': '8ftgBCdlnIYdFdA7FT7RvRnesisBpW5yc1vdCUk/XeI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:40:51 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:40:51 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:40:52 [DEBUG] WebSocket connection established
+2025-04-18 05:40:52 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744935052721, 'Signature': 'MMxdAQLvy5iYOsNxo5imfZB1mxW7adZlBAzcMEdqyQo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:42:33 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:42:33 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:42:34 [DEBUG] WebSocket connection established
+2025-04-18 05:42:34 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744935154113, 'Signature': 'kag+X+D8lK4Zib3a5Khz/io+LfkMiqDfvYsLXl3Bb6s=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:44:14 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:44:14 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:44:15 [DEBUG] WebSocket connection established
+2025-04-18 05:44:15 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744935255501, 'Signature': 'sVOYrtDaurr2tr9t+epF4DPgY7/6wTXWUrw5KeDN4zk=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:45:56 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:45:56 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:45:56 [DEBUG] WebSocket connection established
+2025-04-18 05:45:56 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744935356991, 'Signature': 'xaUZZl2qFjrAL5sFPO6dJTeUB2uSLWoHF/SIltn+l04=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:47:37 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:47:37 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:47:38 [DEBUG] WebSocket connection established
+2025-04-18 05:47:38 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744935458479, 'Signature': '/3mHzWCzR/Ptj/bOg2mC+Po22uESl380xX2B5st47eE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:49:19 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:49:19 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:49:19 [DEBUG] WebSocket connection established
+2025-04-18 05:49:19 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744935559966, 'Signature': 'DtlrVuxxLjPUYU3iTqidtn/YXaGSH0BHAxgbrg3/2kg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:51:00 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:51:00 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:51:01 [DEBUG] WebSocket connection established
+2025-04-18 05:51:01 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744935661349, 'Signature': 'Bt6BMdebcBqM8LZU4UCTM4nJWRqzWxA4KTvtLpCFQ14=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:52:42 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:52:42 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:52:42 [DEBUG] WebSocket connection established
+2025-04-18 05:52:42 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744935762822, 'Signature': 'GaunyllPFPpoREbUHMBrlp70Jmajkx2szO8EaxxBQYM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:54:23 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:54:23 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:54:24 [DEBUG] WebSocket connection established
+2025-04-18 05:54:24 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744935864216, 'Signature': 'g08UToVFMEokRbu7BuKXTHowXAB1Anz6z0XCnUoOyzU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:56:04 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:56:04 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:56:05 [DEBUG] WebSocket connection established
+2025-04-18 05:56:05 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744935965700, 'Signature': 'QoWWYliQ+U2ya6AeRLj7lkoAbvl35K6TSX5HPk+k1Lk=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:57:46 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:57:46 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:57:47 [DEBUG] WebSocket connection established
+2025-04-18 05:57:47 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744936067081, 'Signature': 'IYTChQBhEpl6HpmWu5bF3/fxu6cRYyzjCS8EmRKyxqc=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 05:59:27 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 05:59:27 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 05:59:28 [DEBUG] WebSocket connection established
+2025-04-18 05:59:28 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744936168461, 'Signature': '6zFYkInwUwP/Jod3Txq0NMrYIJIQmNkE0DciYs2ru7Q=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:01:09 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:01:09 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:01:09 [DEBUG] WebSocket connection established
+2025-04-18 06:01:09 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744936269841, 'Signature': 'qeWj5oXjYzrWGPWT5ocCDzmvSxIDU3hAM/qBO+85m8I=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:02:50 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:02:50 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:02:51 [DEBUG] WebSocket connection established
+2025-04-18 06:02:51 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744936371222, 'Signature': 'NYQ8RliS0v9EkK7ykzlyZXWnLVol/47IOIZDPDe+16M=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:04:31 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:04:31 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:04:32 [DEBUG] WebSocket connection established
+2025-04-18 06:04:32 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744936472703, 'Signature': 'do1s1SJ5aCw8qYnsbytdqfwjTFHPYdVHIxjEZsyv3Ys=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:06:13 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:06:13 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:06:14 [DEBUG] WebSocket connection established
+2025-04-18 06:06:14 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744936574186, 'Signature': 'Itc+dl1ZqgjnSrpRTuHCFGxMihXVT19v+UCrcbYrPXM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:07:54 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:07:54 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:07:55 [DEBUG] WebSocket connection established
+2025-04-18 06:07:55 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744936675414, 'Signature': 'glY0vtFsjYWZmffAJREQJLJig8bzH9KHV7T/7+dudt8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:09:35 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:09:35 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:09:36 [DEBUG] WebSocket connection established
+2025-04-18 06:09:36 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744936776603, 'Signature': 'iUEy51M5DVaW/GbG4I/THP++KP+WsVLnurIMlgXN1+Y=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:11:17 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:11:17 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:11:17 [DEBUG] WebSocket connection established
+2025-04-18 06:11:17 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744936877912, 'Signature': '7LTIjkI7M1VUIQAP+Iy9RSmBMudHCiTP8QDkaklw7SI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:12:58 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:12:58 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:12:59 [DEBUG] WebSocket connection established
+2025-04-18 06:12:59 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744936979291, 'Signature': 'v8Sa/xo3Nal/J/X2coHDH0adAwsOINwge2V4e4gmEZQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:14:39 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:14:39 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:14:40 [DEBUG] WebSocket connection established
+2025-04-18 06:14:40 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744937080660, 'Signature': 'FrDIL7l1VpcJUFpN6t1FCvo5h9Vk/LTxJL3mfS6EE8g=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:16:21 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:16:21 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:16:21 [DEBUG] WebSocket connection established
+2025-04-18 06:16:21 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744937181919, 'Signature': 'q06aNY61OOs60/j1QsMxansmayKHajvh1/wEir0aNfU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:18:02 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:18:02 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:18:03 [DEBUG] WebSocket connection established
+2025-04-18 06:18:03 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744937283383, 'Signature': 'DfSjktK63uwXfU/qQOZOOWJuVGyfClCYPUEVWyDedOM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:19:44 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:19:44 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:19:44 [DEBUG] WebSocket connection established
+2025-04-18 06:19:44 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744937384857, 'Signature': 'NYuFNnytk9xiGbDJg7QNXgenPO8KAgIHlDs5dDj+p+g=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:21:25 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:21:25 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:21:26 [DEBUG] WebSocket connection established
+2025-04-18 06:21:26 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744937486428, 'Signature': 'OCGr49yBFCBDQkGwNNzegkX4ZSPLnvANxjmwhSxCFEs=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:23:07 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:23:07 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:23:07 [DEBUG] WebSocket connection established
+2025-04-18 06:23:07 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744937587899, 'Signature': 'Xf7fOA+e0lAxrI/Qw88tl6ZYMISiiOah1z3T/N19DLY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:24:48 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:24:48 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:24:49 [DEBUG] WebSocket connection established
+2025-04-18 06:24:49 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744937689371, 'Signature': 'tl7PAXsPg878WoDKtbwhPFqoNfHvV8tq3KoES/cV/WY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:26:29 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:26:29 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:26:30 [DEBUG] WebSocket connection established
+2025-04-18 06:26:30 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744937790743, 'Signature': 'bhpG0py0jM/PXM0v+b3HW1YR/tUITN2IEmyqUmOoSOU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:28:11 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:28:11 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:28:12 [DEBUG] WebSocket connection established
+2025-04-18 06:28:12 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744937892322, 'Signature': 'JOTzB+53EZYcoRPCq8JHsuHgW2X3F4V6OsvAefkTSXM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:29:52 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:29:52 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:29:53 [DEBUG] WebSocket connection established
+2025-04-18 06:29:53 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744937993694, 'Signature': '/Xsw3iwiErTTv0i3v1Fyl8T9ohl1u7rZeVxhc9MiTZI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:31:34 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:31:34 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:31:35 [DEBUG] WebSocket connection established
+2025-04-18 06:31:35 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744938095068, 'Signature': 'hqaj3vtKgNWz3awFn9cRCI5oeJS2mjzggTBgLK67JtA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:33:15 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:33:15 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:33:16 [DEBUG] WebSocket connection established
+2025-04-18 06:33:16 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744938196442, 'Signature': 'wQ1GU7a1otq15VPBEE/j4LmMRI3UfPT9y7x3W7wBwHo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:34:57 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:34:57 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:34:57 [DEBUG] WebSocket connection established
+2025-04-18 06:34:57 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744938297922, 'Signature': 'CzwkQAcpkR4/b+xb9pVivKjiOx1ZW6PfraQOWw7D+Ek=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:36:38 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:36:38 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:36:39 [DEBUG] WebSocket connection established
+2025-04-18 06:36:39 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744938399400, 'Signature': '2w2V6R46QxjfN5QRwiJztq88XVyicQ36MKeQ7DiNtpA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:38:20 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:38:20 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:38:20 [DEBUG] WebSocket connection established
+2025-04-18 06:38:20 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744938500845, 'Signature': 'A9ZcjCRlHgFDDBXEog7jPrzhiDuulsJ87Xj+ge6SoKw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:40:01 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:40:01 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:40:02 [DEBUG] WebSocket connection established
+2025-04-18 06:40:02 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744938602248, 'Signature': '2DvKxVOfcTeAvbg+MyoGKEHfVzpqC6DZ3mgp9nLoKPo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:41:42 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:41:42 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:41:43 [DEBUG] WebSocket connection established
+2025-04-18 06:41:43 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744938703624, 'Signature': 'T6xjaGCPI974iQuMrHStf+rOVB5hmh27e0GLorKx7c0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:43:24 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:43:24 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:43:25 [DEBUG] WebSocket connection established
+2025-04-18 06:43:25 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744938805101, 'Signature': 'JO3K1BCNC6wOMbfMUq7+0v9lfrrkIOdUBRddtma7WX8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:45:05 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:45:05 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:45:06 [DEBUG] WebSocket connection established
+2025-04-18 06:45:06 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744938906479, 'Signature': 'VN8fY7iRVB/IUFdQOxO5kd2PinXN0PtjSDP5cDl/vVM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:46:47 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:46:47 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:46:47 [DEBUG] WebSocket connection established
+2025-04-18 06:46:47 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744939007754, 'Signature': 'Ehfw9cta8WA40QOOgcgAeqVBU9duhEBGBjcSgVeziw0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:48:28 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:48:28 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:48:29 [DEBUG] WebSocket connection established
+2025-04-18 06:48:29 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744939109133, 'Signature': 'vd9fF0PvjkRwrIi2/g+9PO1wWxIIsqz1hqFDIHzqlXY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:50:09 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:50:09 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:50:10 [DEBUG] WebSocket connection established
+2025-04-18 06:50:10 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744939210414, 'Signature': 'sxb4pdkgrETyE2JgPBaLFxP9qCfWodmz0CsNfZLjJBo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:51:50 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:51:50 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:51:51 [DEBUG] WebSocket connection established
+2025-04-18 06:51:51 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744939311799, 'Signature': 'WdGZrAsja8s87jgql9QBk1rmhhzfV18xQw6e0d1IRfk=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:53:32 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:53:32 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:53:33 [DEBUG] WebSocket connection established
+2025-04-18 06:53:33 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744939413078, 'Signature': '8EmzBcrVoxYPg9hs5eVjS+H4a9HIcS72bGgiDaqNAR4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:55:13 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:55:13 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:55:14 [DEBUG] WebSocket connection established
+2025-04-18 06:55:14 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744939514460, 'Signature': '5uG4BSEAnBs0ffsRHqxXdBHnC9DA8Xv5PefVFrl7HPw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:56:55 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:56:55 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:56:55 [DEBUG] WebSocket connection established
+2025-04-18 06:56:55 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744939615904, 'Signature': 'U6f1YaQb8JDnpozqVyWyoWmyX2Y4lIiP6zaK/Ox7QRQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 06:58:36 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 06:58:36 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 06:58:37 [DEBUG] WebSocket connection established
+2025-04-18 06:58:37 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744939717323, 'Signature': 'TypZNtiFHy5zM81wk7s7kEy8s28VacZOf+SovU7G1eA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:00:17 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:00:17 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:00:18 [DEBUG] WebSocket connection established
+2025-04-18 07:00:18 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744939818805, 'Signature': 'GAwnRa7eUoeK1i6c307KjIsAcKVI8dBMTXxoD8CXJxo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:00:44 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:00:44 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:00:44 [DEBUG] WebSocket connection established
+2025-04-18 07:00:44 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744939844919, 'Signature': '2bnkXybcqYAk/NPDzuai7T/3Q8IuLoqbjg9IWmrFVcw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:02:25 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:02:25 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:02:26 [DEBUG] WebSocket connection established
+2025-04-18 07:02:26 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744939946263, 'Signature': 'bK/Wl2gdv9h0Pepa3ymLlyOhUns5HGHY94CU+yiruOw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:04:06 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:04:06 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:04:07 [DEBUG] WebSocket connection established
+2025-04-18 07:04:07 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744940047881, 'Signature': 'IOQy+0JyYHzs93wfIQG3/rTLAuK6qf26ksbIKgPAcAw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:05:48 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:05:48 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:05:49 [DEBUG] WebSocket connection established
+2025-04-18 07:05:49 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744940149158, 'Signature': 'MRzYAwKYK73KlUciCTpTpPmBlvXDx5qiaH8fNuV+yRk=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:07:29 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:07:29 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:07:30 [DEBUG] WebSocket connection established
+2025-04-18 07:07:30 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744940250535, 'Signature': 'lAR40X/+1Mh9YRu6OPJzgq7WhY5zJ/8r+wCfIjo9Ltc=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:09:11 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:09:11 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:09:12 [DEBUG] WebSocket connection established
+2025-04-18 07:09:12 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744940352016, 'Signature': '7XkKpDW+/IBja9koLqFSXQoRMNbsSgl+SfFpbYGrSXY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:10:52 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:10:52 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:10:53 [DEBUG] WebSocket connection established
+2025-04-18 07:10:53 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744940453497, 'Signature': 'vMNG1leW09EVeB1zlQJIA+o6cpjy1R7gHpMSPQRAYt0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:12:34 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:12:34 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:12:34 [DEBUG] WebSocket connection established
+2025-04-18 07:12:34 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744940554826, 'Signature': 'hkEr8OMa44y7zhCNxeMiWop1JpdP3f/rAbi32rjdHyY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:14:15 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:14:15 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:14:16 [DEBUG] WebSocket connection established
+2025-04-18 07:14:16 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744940656266, 'Signature': 'cu2lliz07XdIiu9oub53qQnjdddJy4wDufl0fmyJcO4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:15:56 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:15:56 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:15:57 [DEBUG] WebSocket connection established
+2025-04-18 07:15:57 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744940757733, 'Signature': 'cSoSK3nADYzphqxAb1IIaTtHu8/KXvjTVQp6uvtzSZo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:17:38 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:17:38 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:17:39 [DEBUG] WebSocket connection established
+2025-04-18 07:17:39 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744940859110, 'Signature': 'azWvePd9RSScE8BWhozS18yiru/6OL3z/3pswZGHE/8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:19:19 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:19:19 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:19:20 [DEBUG] WebSocket connection established
+2025-04-18 07:19:20 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744940960543, 'Signature': 'mBHGcbqYf4LGHVtA9jjziP047oAE4EugCDJUhazkmcQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:21:01 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:21:01 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:21:01 [DEBUG] WebSocket connection established
+2025-04-18 07:21:01 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744941061968, 'Signature': 'iPL0JWB/BhHc9TF9XxCwVir9NzIMKsX/9sb32Ngg3LY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:22:42 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:22:42 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:22:43 [DEBUG] WebSocket connection established
+2025-04-18 07:22:43 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744941163251, 'Signature': '8M0itZB/aUu0BUoB6z+DPB6++gKkwEoVxeHB8on7+LQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:24:23 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:24:23 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:24:24 [DEBUG] WebSocket connection established
+2025-04-18 07:24:24 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744941264612, 'Signature': 'Zpg670kUB/VyZuG3AVhIx1RzEoEbGt5E/vFATfb97VM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:26:05 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:26:05 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:26:05 [DEBUG] WebSocket connection established
+2025-04-18 07:26:05 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744941365986, 'Signature': '0xlbeQXsHjHZyuo3ipbt5PaUFM9GciWTMorJ2sK6Whk=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:27:46 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:27:46 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:27:47 [DEBUG] WebSocket connection established
+2025-04-18 07:27:47 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744941467256, 'Signature': 'uUFlfxDyYucpceAg4bNC1kmn/2DNRjyTl816By9o/pQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:29:27 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:29:27 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:29:28 [DEBUG] WebSocket connection established
+2025-04-18 07:29:28 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744941568732, 'Signature': 'yXJjh/x0LshHuhQiL8EU9NAUwhD4PwPGE20R44oYNMs=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:31:09 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:31:09 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:31:10 [DEBUG] WebSocket connection established
+2025-04-18 07:31:10 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744941670311, 'Signature': 'wn0FWw3wvJlXUN5/PZpqxOIhUGDRbbkt+WAnksswdYw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:32:50 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:32:50 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:32:51 [DEBUG] WebSocket connection established
+2025-04-18 07:32:51 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744941771686, 'Signature': 'd+FeYEhmuKGjavnhkl7PXreWR4V2PTM3I2kqB14cjYA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:34:32 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:34:32 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:34:33 [DEBUG] WebSocket connection established
+2025-04-18 07:34:33 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744941873062, 'Signature': 'KUHBsGH5TRjR1/Hli6MDVA9O2WrvBazN3rbBRyVgKNo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:36:13 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:36:13 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:36:14 [DEBUG] WebSocket connection established
+2025-04-18 07:36:14 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744941974539, 'Signature': 'rx5Bk9KUpsX+hbPM9YUelIMNNDk1cpFQTEHSNn0hMbI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:37:55 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:37:55 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:37:55 [DEBUG] WebSocket connection established
+2025-04-18 07:37:55 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744942075916, 'Signature': 'MIIDPW/aI6OWhV7eIYzVx4r7+DsPrVg8s3uqyhUIRA8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:39:36 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:39:36 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:39:37 [DEBUG] WebSocket connection established
+2025-04-18 07:39:37 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744942177188, 'Signature': 'q+AvZAA7KvqmRof9YD6hfKXFcewdsVOOfLJMHa3YQxY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:41:17 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:41:17 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:41:18 [DEBUG] WebSocket connection established
+2025-04-18 07:41:18 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744942278256, 'Signature': '0AAh546ePuDQjTDZM87XpyhjpwF2ElqOPKFeM8g2ibE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:42:58 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:42:58 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:42:59 [DEBUG] WebSocket connection established
+2025-04-18 07:42:59 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744942379530, 'Signature': 'cZ80TIrP6snRdDmcURAxnmMcJ+Op/w/94o1qeE5Xh70=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:44:40 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:44:40 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:44:40 [DEBUG] WebSocket connection established
+2025-04-18 07:44:40 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744942480907, 'Signature': '9QZc83XfQ1OJsbtvEVbYtrHvXJvcOWfvrMy3wT0MIy4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:46:21 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:46:21 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:46:22 [DEBUG] WebSocket connection established
+2025-04-18 07:46:22 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744942582385, 'Signature': 'ldcTo0QCxWaT7EJ7Kbe9dMD8sEC3yDzq+1KxtXl+QpY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:48:02 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:48:02 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:48:03 [DEBUG] WebSocket connection established
+2025-04-18 07:48:03 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744942683762, 'Signature': 'JbSq7bLwGujCqsKRBi7dL43jPqFi6H+PR+wD5cLY1Lk=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:49:44 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:49:44 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:49:45 [DEBUG] WebSocket connection established
+2025-04-18 07:49:45 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744942785139, 'Signature': 'BxSAAKl1y4o8zuT6c8cIMTFgLVFUg5fYonDPEa9Ht34=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:51:25 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:51:25 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:51:26 [DEBUG] WebSocket connection established
+2025-04-18 07:51:26 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744942886617, 'Signature': '4qibI+9rGPxneAFqbpb3D7B06r3Umnj5apbbDULGhGM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:53:07 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:53:07 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:53:07 [DEBUG] WebSocket connection established
+2025-04-18 07:53:07 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744942987994, 'Signature': 'coqtuf2vQ+8VGzAhymyWCFjj4hqJl12PI9lM4CIE4KE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:54:48 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:54:48 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:54:49 [DEBUG] WebSocket connection established
+2025-04-18 07:54:49 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744943089367, 'Signature': 'fnjnlLNEx4jceRWu8MLHWj+0ZICeiInZSYy7irCFI9U=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:56:30 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:56:30 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:56:30 [DEBUG] WebSocket connection established
+2025-04-18 07:56:30 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744943190846, 'Signature': 'u8rH+UK4e/j9NQXEv2IOKfr8sV+WaFJvggdQbkIWw6M=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:58:11 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:58:11 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:58:12 [DEBUG] WebSocket connection established
+2025-04-18 07:58:12 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744943292221, 'Signature': 'LmhuxKD9/z+2b67zfgQ36PgyMiWD7XWkF94sGVlK/7E=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 07:59:52 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 07:59:52 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 07:59:53 [DEBUG] WebSocket connection established
+2025-04-18 07:59:53 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744943393493, 'Signature': '4/Zr9onrJ4WAIbJg6wo1w4pqGshDfbQnV8oRl6r85Kg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:01:34 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:01:34 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:01:34 [DEBUG] WebSocket connection established
+2025-04-18 08:01:34 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744943494871, 'Signature': 'Es/kv+QghMvi/3PVx920O5dLYFk1s1cuxstRKua6XLg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:03:15 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:03:15 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:03:16 [DEBUG] WebSocket connection established
+2025-04-18 08:03:16 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744943596346, 'Signature': 'laXJVlsc27UBKzSieJN3niHxtZSC5ZkSYOippdWHkiw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:04:57 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:04:57 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:04:57 [DEBUG] WebSocket connection established
+2025-04-18 08:04:57 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744943697789, 'Signature': 'YgBMaamVf54HakVRa7fwNqkq9HdzzZ+JuZQtM6lJ1sw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:06:38 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:06:38 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:06:39 [DEBUG] WebSocket connection established
+2025-04-18 08:06:39 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744943799197, 'Signature': 'VJqSKCtIxY80dILPW5y3JeXAFgs20lzf0/gIa6BUjRA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:08:19 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:08:19 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:08:20 [DEBUG] WebSocket connection established
+2025-04-18 08:08:20 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744943900551, 'Signature': 'V9I5955wFNUstC3r306wNv9DmojQo7guObhPOena0DA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:10:01 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:10:01 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:10:01 [DEBUG] WebSocket connection established
+2025-04-18 08:10:01 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744944001948, 'Signature': 'RDUf8TR7mAZGPEJXg2yiNocssenSRtyR8Hs8TzjKVRs=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:11:42 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:11:42 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:11:43 [DEBUG] WebSocket connection established
+2025-04-18 08:11:43 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744944103426, 'Signature': 'ltnVFoVbiveffBtgNx7+k6ODVBX7pirYilfxpuWqqZE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:13:24 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:13:24 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:13:25 [DEBUG] WebSocket connection established
+2025-04-18 08:13:25 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744944205008, 'Signature': 'TKLLtKfcnLcmXDcuNsChjf895eEYqxQWfpX3tkbcgxQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:15:05 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:15:05 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:15:06 [DEBUG] WebSocket connection established
+2025-04-18 08:15:06 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744944306282, 'Signature': 'axDnrq75w5OXhNlgGeZx0ZNPFYAXBY8F9qzRXUrGmws=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:16:46 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:16:46 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:16:47 [DEBUG] WebSocket connection established
+2025-04-18 08:16:47 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744944407760, 'Signature': 'Objgww6lXvCnN14q96SIP1muY37oE4pCLRmWZIehH2A=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:18:28 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:18:28 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:18:29 [DEBUG] WebSocket connection established
+2025-04-18 08:18:29 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744944509240, 'Signature': 'fGrtQb4hi5GPwRFp1cr6mb/HtHXIwsqFl6OHryOXhYs=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:20:09 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:20:09 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:20:10 [DEBUG] WebSocket connection established
+2025-04-18 08:20:10 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744944610513, 'Signature': 'K2CsmjWUGq8KbhMQV9uFBlH3QoXdoUqMkON0PQ78pfw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:21:51 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:21:51 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:21:51 [DEBUG] WebSocket connection established
+2025-04-18 08:21:51 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744944711788, 'Signature': 'lX8ic3c2jrZAGTC3zFcZwrMEoln0johPnOcOFGjsOoI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:23:32 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:23:32 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:23:33 [DEBUG] WebSocket connection established
+2025-04-18 08:23:33 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744944813057, 'Signature': 'DtcGBWYCVcwiBrtCsHqCKPXvFIE9y/MTCtdfIyFc0Zg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:25:13 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:25:13 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:25:14 [DEBUG] WebSocket connection established
+2025-04-18 08:25:14 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744944914435, 'Signature': 'DxAcRzZtfgsUbV+EkRJ98JV9jr9lIByo6sDmSWkWb+4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:26:55 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:26:55 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:26:55 [DEBUG] WebSocket connection established
+2025-04-18 08:26:55 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744945015903, 'Signature': 'YGsKRJ6KlsJvzMjEwdj2scoDsxeSqV1vdpZPKOZ8n80=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:28:36 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:28:36 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:28:37 [DEBUG] WebSocket connection established
+2025-04-18 08:28:37 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744945117390, 'Signature': 'MrMvwXj6XwEOIjsZJwBuKAT0ZMGM8kU3YnFb4zc6VGo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:30:18 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:30:18 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:30:18 [DEBUG] WebSocket connection established
+2025-04-18 08:30:18 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744945218941, 'Signature': 'QUDPJzc4rlCxeKDKEtrQlrE3KILtI9Q72orTfAEVHKY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:31:59 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:31:59 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:32:00 [DEBUG] WebSocket connection established
+2025-04-18 08:32:00 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744945320127, 'Signature': 'LaodLqpDmTvrAadlhdWcHeAD3n9Se1B7MdW4+CiFT04=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:33:40 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:33:40 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:33:41 [DEBUG] WebSocket connection established
+2025-04-18 08:33:41 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744945421389, 'Signature': 'cN5DucuarlVdUsV4ePlANvGZNZCUX3CjLSWSZTX65j8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:35:21 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:35:21 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:35:23 [DEBUG] WebSocket connection established
+2025-04-18 08:35:23 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744945523036, 'Signature': 'pc3A4pW+MS99QTebYflA+ZMkETU15lA4yJAiBn1CL0Y=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:37:03 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:37:03 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:37:04 [DEBUG] WebSocket connection established
+2025-04-18 08:37:04 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744945624532, 'Signature': 'oJTjXUNUz2vCmvn3LcOzSCi/3M60ZodxSYan2RdIsGU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:38:45 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:38:45 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:38:45 [DEBUG] WebSocket connection established
+2025-04-18 08:38:45 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744945725901, 'Signature': 'kNYBcMf3nQ6MDH1rIS7EZQY+dLA5k492OZTWqSYf17k=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:40:26 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:40:26 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:40:27 [DEBUG] WebSocket connection established
+2025-04-18 08:40:27 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744945827608, 'Signature': 'z/zZ8szEJ3BL3bYizVD6sMZaVF6xBpMQ8GS6MRwffd4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:42:08 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:42:08 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:42:09 [DEBUG] WebSocket connection established
+2025-04-18 08:42:09 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744945929186, 'Signature': 'WjxEoevY9g3Ap6gRCt/kzdZ3iJlWbjUYojBVC9iNQu8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:43:49 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:43:49 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:43:50 [DEBUG] WebSocket connection established
+2025-04-18 08:43:50 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744946030625, 'Signature': 'pNrlq00DgexdbjYCjy/zlLDD3S84c0e80d9nOiKWZWA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:45:31 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:45:31 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:45:32 [DEBUG] WebSocket connection established
+2025-04-18 08:45:32 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744946132221, 'Signature': 'ot9SsNHzVjjTP5HQtNjsga1WLe0PqJMEoUsThFuTjuE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:47:12 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:47:12 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:47:13 [DEBUG] WebSocket connection established
+2025-04-18 08:47:13 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744946233743, 'Signature': '+oTPLfsUHQ+4Y9F1rWGtGaJPvXsDdb7UQLOk5Vf/HIc=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:48:54 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:48:54 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:48:55 [DEBUG] WebSocket connection established
+2025-04-18 08:48:55 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744946335143, 'Signature': 'FuDM0YAbXdocmmLGqxix/rNFO6MZwM3pa2MenABpPrY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:50:35 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:50:35 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:50:36 [DEBUG] WebSocket connection established
+2025-04-18 08:50:36 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744946436319, 'Signature': 'jg09/CdmiO5rU8y238drWKc3l8wg/e3OCcouR1p810E=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:52:16 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:52:16 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:52:17 [DEBUG] WebSocket connection established
+2025-04-18 08:52:17 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744946537589, 'Signature': 'DMzXSzckVc+5prqxE5n/oJB0lpwmb0lM8sgd5suO3xA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:53:58 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:53:58 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:53:58 [DEBUG] WebSocket connection established
+2025-04-18 08:53:58 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744946638859, 'Signature': 'ioPLZWRXyEs4+LPjSQ4fqWsf25NoWoy8HQwKTdAI62E=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:55:39 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:55:39 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:55:40 [DEBUG] WebSocket connection established
+2025-04-18 08:55:40 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744946740235, 'Signature': '4z4EUylOfCqSnsHyKRss9o/delsJeympIcg3v72tzgQ=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:57:20 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:57:20 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:57:21 [DEBUG] WebSocket connection established
+2025-04-18 08:57:21 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744946841709, 'Signature': 'toN2D/j6JtEy216KNbr9UwB7/6sGuaxyF1QeIEqcCBw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 08:59:02 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 08:59:02 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 08:59:03 [DEBUG] WebSocket connection established
+2025-04-18 08:59:03 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744946943184, 'Signature': 'kdlyn4WNkXJoTTidIPWnwEbypkG36Nx8dz4k9CqU5Ok=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 09:00:43 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 09:00:43 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 09:00:44 [DEBUG] WebSocket connection established
+2025-04-18 09:00:44 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744947044557, 'Signature': 'dyLLwzP+kfsKlc6tk4FOoUUO8bp+nj2YoMhJIraGmsc=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 09:02:25 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 09:02:25 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 09:02:25 [DEBUG] WebSocket connection established
+2025-04-18 09:02:25 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744947145934, 'Signature': 'JKIeQVrKdmdGdK3QkRmRoxwAjSVaqHUIbtz+tak3B7M=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 09:04:06 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 09:04:06 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 09:04:07 [DEBUG] WebSocket connection established
+2025-04-18 09:04:07 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744947247305, 'Signature': 'EnxZ4kS7IRC2vgLIGJMrnz0hVSJ8ZjmgB0Jv2ktYFeA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 09:05:47 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 09:05:47 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 09:05:48 [DEBUG] WebSocket connection established
+2025-04-18 09:05:48 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744947348702, 'Signature': '2pyg9LoXw4q/taEdWZt7KQJuxOfYqndE7r5VssHOrFg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 09:07:29 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 09:07:29 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 09:07:30 [DEBUG] WebSocket connection established
+2025-04-18 09:07:30 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744947450303, 'Signature': 'JRGnrrhdfF//4+yvDet+12t7hlY2cgrhW4HijUXRKCA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 09:09:10 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 09:09:10 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 09:09:11 [DEBUG] WebSocket connection established
+2025-04-18 09:09:11 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744947551800, 'Signature': 'Z1iofjeCMsWUneuTzCOTNtpFzYNNFsQMUwDY/9Df3MU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 09:10:52 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 09:10:52 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 09:10:53 [DEBUG] WebSocket connection established
+2025-04-18 09:10:53 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744947653189, 'Signature': '3qgv2UWIrQOwHRZXJe5DjrR5ulb7zqcQQR2MMJo97NI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-18 09:12:33 [ERROR] WebSocket error occurred: Connection to remote host was lost.
+2025-04-18 09:12:33 [DEBUG] WebSocket connection closed: None - None
+2025-04-18 09:12:34 [DEBUG] WebSocket connection established
+2025-04-18 09:12:34 [DEBUG] Login with: {'Id': '92702d60-1346-452c-9f33-adeacb396a83', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1744947754575, 'Signature': 'NjccighZO0YLLm/apffiaeiR/gVIXraYfrg9eDMRL8U=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-28 18:09:22 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-28 18:09:23 [DEBUG] WebSocket connection established
+2025-04-28 18:09:23 [DEBUG] Login with: {'Id': '6a9adac6-f27c-4e1d-bd81-d79475cc1afd', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745843963253, 'Signature': 'Ky/ncrc/4ndzNveuC00kY2dUz3xBKA6IppA7xVrYIhU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 10:11:27 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 10:11:28 [DEBUG] WebSocket connection established
+2025-04-29 10:11:28 [DEBUG] Login with: {'Id': 'a42577f9-46d2-4ee5-bfdb-b9ac19e39c46', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745901688260, 'Signature': 'WWgb/2Ved8GGTvp7gFO583mOpkboV9mlHkcmLQvFU5E=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 10:28:31 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 10:28:32 [DEBUG] WebSocket connection established
+2025-04-29 10:28:32 [DEBUG] Login with: {'Id': '00e70f07-b8b3-4a61-a809-1c12d9bd1cf9', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745902712658, 'Signature': 'mzgdr+pQeBH+UtJ+VfvmyeEKbgxuvVv0LxXH0TFA25Y=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 10:31:26 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 10:31:27 [DEBUG] WebSocket connection established
+2025-04-29 10:31:27 [DEBUG] Login with: {'Id': '1c328493-e0f7-4c45-ad4c-aec9766d5c26', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745902887564, 'Signature': '61lpmHewVyN2Ouk7lIo7v7MqnTw0oLFirvpaYyJ9aCU=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 10:33:13 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 10:33:14 [DEBUG] WebSocket connection established
+2025-04-29 10:33:14 [DEBUG] Login with: {'Id': '1552226e-0c95-4480-9a4e-7d6c513b8944', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745902994376, 'Signature': 'Ye6V1SZlNMWRWrq2JVoKFpI//mJu6/CLxbE5/dHxgH4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 10:34:37 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 10:34:37 [DEBUG] WebSocket connection established
+2025-04-29 10:34:37 [DEBUG] Login with: {'Id': '8df60c49-8889-4de8-a2ea-84f35405cf7b', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745903077944, 'Signature': '7Z7xFLTrp/1ulWloHS73GOT2LYxMw9Q4qyiFfuGOVOE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 10:35:19 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 10:35:20 [DEBUG] WebSocket connection established
+2025-04-29 10:35:20 [DEBUG] Login with: {'Id': 'a10b6a81-b091-4563-9fb9-a4670386b0ab', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745903120461, 'Signature': 'D4WnqCfKbWlvltVUcIpuh+fl0VOZ8SauQHu1M1MNJsg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 10:36:18 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 10:36:19 [DEBUG] WebSocket connection established
+2025-04-29 10:36:19 [DEBUG] Login with: {'Id': 'c0d0c79f-74a9-4d9a-9603-0a50e0980885', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745903179026, 'Signature': 'XGZac1hr4fhCu+W4FLVLR0PUbY3wDwjctACpcSYzNWY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 10:36:34 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 10:36:35 [DEBUG] WebSocket connection established
+2025-04-29 10:36:35 [DEBUG] Login with: {'Id': '4ad56cad-fb46-422c-b61c-683ac5adbc28', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745903195124, 'Signature': '+wTjPU+LTu+2Xxm856yTjtrkqiOKYsVmo8vjaOyMMKM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 10:39:09 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 10:39:10 [DEBUG] WebSocket connection established
+2025-04-29 10:39:10 [DEBUG] Login with: {'Id': '2ad798e3-5647-4193-b173-f4d289b00ffc', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745903350222, 'Signature': '+kBx+XXhvfsIJLy0c8I3iyeO8lU4gVX3MAoKVuQ7EQ0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 11:13:23 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 11:13:24 [DEBUG] WebSocket connection established
+2025-04-29 11:13:24 [DEBUG] Login with: {'Id': '435cc341-c2cb-4b42-b820-2956e50aca04', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745905404735, 'Signature': 'TRfCcFC90jCg6E3S7qpkiRf9JMormuBhdEfI5EQe9DE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 11:15:47 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 11:15:48 [DEBUG] WebSocket connection established
+2025-04-29 11:15:48 [DEBUG] Login with: {'Id': '3bbe93c6-1b34-4d9c-af68-ea468faf05be', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745905548480, 'Signature': 'ciWTeCvKOplPpRgE7dA0ce+rUxGvirasAvNba7JUEtE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 11:21:40 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 11:21:40 [DEBUG] WebSocket connection established
+2025-04-29 11:21:40 [DEBUG] Login with: {'Id': 'b200fb25-eef4-46b8-846b-f75e8e444183', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745905900925, 'Signature': 'zddg4jdF0Xtj+ulQsI9X5AyHQFTRzdiAGUf5scdqNE8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 11:21:56 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 11:21:56 [DEBUG] WebSocket connection established
+2025-04-29 11:21:56 [DEBUG] Login with: {'Id': '3cb7ceb2-5d7b-4c0b-8886-7ffc20865cb1', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745905916914, 'Signature': 'RIvjtPkr29ew0kDVMNUuLMBDh2P2JR9rpR6g6m2eeog=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 11:25:17 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 11:25:17 [DEBUG] WebSocket connection established
+2025-04-29 11:25:17 [DEBUG] Login with: {'Id': 'd30be05a-d08c-4d74-b6fb-ec854b1de401', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745906117869, 'Signature': 'FZoxhjY+k4ybeI9d+6lvpr4TtjwghNlylQCQwEbOP1Q=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 11:45:43 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 11:45:44 [DEBUG] WebSocket connection established
+2025-04-29 11:45:44 [DEBUG] Login with: {'Id': '66a276cb-8e51-401d-92ca-1d98d39c52a0', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745907344198, 'Signature': 'sSOoYWHQFycWES1qo9weobfdhmz+85IK5mguj20PXHY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 11:51:13 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 11:51:14 [DEBUG] WebSocket connection established
+2025-04-29 11:51:14 [DEBUG] Login with: {'Id': 'b16e2d9e-e8c4-4be3-9998-4957a0ede425', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745907674330, 'Signature': 'ntdwzmRVLjR2LhZgObBgumgvuaO34hO7wSFZcxgiLoo=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 12:01:15 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 12:01:16 [DEBUG] WebSocket connection established
+2025-04-29 12:01:16 [DEBUG] Login with: {'Id': 'b9c45f04-e3a8-45c5-9ee7-855265239597', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745908276269, 'Signature': 'LdCe7/4YI/ZAEbRIuUm5b6tlvXON6C+PV+4fqLUs5jA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 12:07:48 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 12:07:49 [DEBUG] WebSocket connection established
+2025-04-29 12:07:49 [DEBUG] Login with: {'Id': '1069948b-826e-4de9-9ba5-73022e7a0f75', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745908669177, 'Signature': '83tq0jPZRctZyZkv66Oa/T2hgdUKj80d4Vjnmy3lVNc=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-04-29 12:25:56 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-04-29 12:25:57 [DEBUG] WebSocket connection established
+2025-04-29 12:25:57 [DEBUG] Login with: {'Id': 'd8b5ddbc-ad0f-4eb1-a6b7-e5ab2cda6b78', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1745909757508, 'Signature': '6qeJAYcvgF9+jrl0TT25y0/E8hUQ1VrSYrEOvqH8StA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 21:44:09 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 21:44:10 [DEBUG] WebSocket connection established
+2025-05-02 21:44:10 [DEBUG] Login with: {'Id': '3a9a960a-5fb3-4bde-9d39-08d0099cc546', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746202450122, 'Signature': 'ZFNKM/4U+Yxj5OSu8Mpj4CEbHRUB1NrxY29madDdHu8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 21:45:03 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 21:45:04 [DEBUG] WebSocket connection established
+2025-05-02 21:45:04 [DEBUG] Login with: {'Id': 'de391e8a-76cb-4672-8a81-c41c747e0ea8', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746202504743, 'Signature': '6GHNXwt9MMZVUcDeiEYYnxapNBa6DaSrH1iXoEvhEk8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 21:56:14 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 21:56:15 [DEBUG] WebSocket connection established
+2025-05-02 21:56:15 [DEBUG] Login with: {'Id': 'e82b69c1-d3ab-4ac4-af46-21072733967a', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746203175440, 'Signature': 'HM2G5ez94KQZic7sXF9WIoQIscljd5D0DGSv3niCQN8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 21:56:39 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 21:56:39 [DEBUG] WebSocket connection established
+2025-05-02 21:56:39 [DEBUG] Login with: {'Id': '8201b653-2504-4586-b1e5-9d6f0f0ae603', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746203199981, 'Signature': 'cjR5NJUDJ3Hj3iZWWP3dixvLhJTCYgXIw2sx4L/ONQs=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 22:06:01 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 22:06:34 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 22:06:35 [DEBUG] WebSocket connection established
+2025-05-02 22:06:35 [DEBUG] Login with: {'Id': '7d98a0e4-cd5f-4095-a533-772ba161eb34', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746203795349, 'Signature': 'kDFCYWy9qnOvJhhBvNETaoyszYlOH6YugAnFH7bDD5A=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 22:54:59 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 22:55:00 [DEBUG] WebSocket connection established
+2025-05-02 22:55:00 [DEBUG] Login with: {'Id': '0674021b-9794-4f62-a585-ca3ab7ff061e', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746206700496, 'Signature': 'sejg6bbZ532qztibOU8gzsyR2AseFPLMrAV5OpQLG48=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 22:59:45 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 22:59:46 [DEBUG] WebSocket connection established
+2025-05-02 22:59:46 [DEBUG] Login with: {'Id': '250bb284-41c8-4a1d-86e4-15b87ef046b2', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746206986527, 'Signature': 'mHPCYGwJHoOCW9uDLPN/h+Sm6LOLgllsiNFwR2smZCY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 23:09:00 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 23:09:02 [DEBUG] WebSocket connection established
+2025-05-02 23:09:02 [DEBUG] Login with: {'Id': '1887ff75-eb31-43e3-97c0-beaa6a97538a', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746207542052, 'Signature': 'CyLioMK17TiVh+imp0RpbqboLZTSnZtXYMtnvSHPpmw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 23:12:10 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 23:12:11 [DEBUG] WebSocket connection established
+2025-05-02 23:12:11 [DEBUG] Login with: {'Id': 'c2bdeb3e-bd70-48f4-a561-60c474458388', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746207731667, 'Signature': 'vc8EFy2g2tDAKbYzFwXrj/lzFp3fnZS3eJhUZqWhAiM=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 23:29:46 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 23:29:47 [DEBUG] WebSocket connection established
+2025-05-02 23:29:47 [DEBUG] Login with: {'Id': '1de3d2c1-cf73-40f6-8e65-4826d96a8bc1', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746208787754, 'Signature': 'mWhcSFAD16gNu3CZX7Sc3rFqG0mvzwuW3mL1odL0rqE=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 23:31:15 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 23:31:16 [DEBUG] WebSocket connection established
+2025-05-02 23:31:16 [DEBUG] Login with: {'Id': 'e0a3be6c-6f40-45d5-af22-c4f397aade8c', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746208876872, 'Signature': '8ZUtprGnhwsWA/aVoFd1V0057haAyxBLGKDQpU/b2Pw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 23:39:26 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 23:39:26 [DEBUG] WebSocket connection established
+2025-05-02 23:39:26 [DEBUG] Login with: {'Id': '40f6295f-6cb2-4b0d-8832-09e55e84154a', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746209366731, 'Signature': 'jt6kEOAV15GyQv/8pavTfnTjuKyWAnXuJdBdRiRp/4s=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 23:45:32 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 23:45:33 [DEBUG] WebSocket connection established
+2025-05-02 23:45:33 [DEBUG] Login with: {'Id': 'd9688344-9e28-4754-8823-e107ded6d7d5', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746209733109, 'Signature': '02+ciT7AAv66iUCqVZUGdDxJaTwoH6MvNbB5YdBvyWs=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-02 23:58:14 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-02 23:58:15 [DEBUG] WebSocket connection established
+2025-05-02 23:58:15 [DEBUG] Login with: {'Id': '3b954f93-1fc0-46c9-a97b-803137333265', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746210495672, 'Signature': 'ozr9zLxbt8Mx/FXpxsvJVC5K3ZpnAyJt/FDxmMD7a6o=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 12:51:09 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 12:51:10 [DEBUG] WebSocket connection established
+2025-05-06 12:51:10 [DEBUG] Login with: {'Id': '4252b07b-25d9-4945-8291-a4e41f8bf3ce', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746516070682, 'Signature': 'yStgAMvvTzdQfdMTwwZUAMSUhoBcAXeY6zYx3ild1mg=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 13:01:08 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 13:01:09 [DEBUG] WebSocket connection established
+2025-05-06 13:01:09 [DEBUG] Login with: {'Id': 'a1ec11fc-f6d3-4b02-bce0-349ebb3b83d9', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746516669801, 'Signature': 'FESDsIBIBf2X88Cp85yPwRVJ7bq2BgjeTElqbbZh2no=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 13:12:02 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 13:12:03 [DEBUG] WebSocket connection established
+2025-05-06 13:12:03 [DEBUG] Login with: {'Id': 'ae8255b4-c9cc-4b01-aff8-46170f59afb4', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746517323535, 'Signature': '9yY1nkuN9uk+4WaBKbkI13PfUHeYd0pBs7wAHLf0hDA=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 13:31:27 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 13:46:52 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 13:46:53 [DEBUG] WebSocket connection established
+2025-05-06 13:46:53 [DEBUG] Login with: {'Id': 'f2e7f6b4-71ce-4e6f-b86a-8c6a316f3b6d', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746519413296, 'Signature': 'DDpWbf9ESNWIIvvLuuKY3fr861fJway/3kTTtOXL0I0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 13:55:05 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 13:55:06 [DEBUG] WebSocket connection established
+2025-05-06 13:55:06 [DEBUG] Login with: {'Id': '08c17410-9c46-4b04-9d9d-2d3517d348bd', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746519906881, 'Signature': 'nXKBXwwdzaWXIGixFOLqL99xJIEW8wSSpg2eK/s2F/0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 13:58:04 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 13:58:05 [DEBUG] WebSocket connection established
+2025-05-06 13:58:05 [DEBUG] Login with: {'Id': '8d8ae6d4-c5e2-4910-834a-8ff8eb8397c4', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746520085383, 'Signature': '3qFelMuQLYLefp5WOW4RnQYrLhfjz5lo0CyXljk0rV0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:04:34 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:04:35 [DEBUG] WebSocket connection established
+2025-05-06 14:04:35 [DEBUG] Login with: {'Id': '84d1fee3-1f9a-490b-a804-86cd502ad802', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746520475414, 'Signature': 'Bv5gPoIwyQOWGVAwtzoNarO8tq2DymB8bdX8gadjwEw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:08:45 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:08:46 [DEBUG] WebSocket connection established
+2025-05-06 14:08:46 [DEBUG] Login with: {'Id': 'e987ca6c-2e1a-4296-a572-528806282c1b', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746520726656, 'Signature': 'KKxgzTcikQHFxh1FfZlIOBrInRtglNf39wJgeVJpsT0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:11:57 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:11:58 [DEBUG] WebSocket connection established
+2025-05-06 14:11:58 [DEBUG] Login with: {'Id': '2fc7eb66-190e-4cc2-803e-43d9d63d2ca4', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746520918573, 'Signature': 'pGnaFkUkEVPGy5r6HG+T4JSKvR477GvY89M3t1rovR8=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:12:23 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:12:24 [DEBUG] WebSocket connection established
+2025-05-06 14:12:24 [DEBUG] Login with: {'Id': 'f3abff83-7dfd-48a7-adf5-fbb8baee1e6a', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746520944132, 'Signature': 'mvQ6Pz7U6419UPGLHwPmL6Cscn20tP0S3xsyGOphveY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:14:18 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:14:19 [DEBUG] WebSocket connection established
+2025-05-06 14:14:19 [DEBUG] Login with: {'Id': 'af960fc8-3dae-42ca-a400-eba0130a1134', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746521059202, 'Signature': 'NtGGF1WQ/G64KDxGMFUS5JOTp4m1aq+kVu0vHA9zmXI=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:22:08 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:22:09 [DEBUG] WebSocket connection established
+2025-05-06 14:22:09 [DEBUG] Login with: {'Id': 'dc1e5e2d-bb2e-4364-bd39-6e9f4ecd3ff9', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746521529656, 'Signature': 'vZnTD8ILWae2Oksqpc1+AwueXApjEFDz4b634ZZB9C0=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:25:52 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:25:53 [DEBUG] WebSocket connection established
+2025-05-06 14:25:53 [DEBUG] Login with: {'Id': '4a6b8ad6-14ec-4a29-a1ab-6bc41ed948af', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746521753621, 'Signature': 'St5MInzIt4nWwYuxffpuID4DZ/t6HZwSqiCzoXwvwH4=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:29:01 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:29:03 [DEBUG] WebSocket connection established
+2025-05-06 14:29:03 [DEBUG] Login with: {'Id': '83d22c80-183b-410e-8094-4e76d9b6f589', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746521943058, 'Signature': '6ULcc0gZWFMO5KacPz/XpLh8L51lM/8sxYlMc2CcEOY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:30:27 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:30:28 [DEBUG] WebSocket connection established
+2025-05-06 14:30:28 [DEBUG] Login with: {'Id': '487342f6-d252-4c96-8615-7a2e636b0320', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746522028126, 'Signature': 'GW29wd2Fq3oniDclxBzQ0ElqWWGcGnndYbrBuBS4XfY=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:31:59 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:32:00 [DEBUG] WebSocket connection established
+2025-05-06 14:32:00 [DEBUG] Login with: {'Id': 'bf86f0f9-7b17-4768-9e0a-bfede53822ed', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746522120623, 'Signature': 'kCkv30LgmbEafhKB+E7UzHQ8M3ZRJfibsd2DKuw/CSk=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:33:20 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:33:21 [DEBUG] WebSocket connection established
+2025-05-06 14:33:21 [DEBUG] Login with: {'Id': '4b5aa052-c732-49ed-87d2-7fd4b89e4a51', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746522201243, 'Signature': 'rACUg8uHzNiF5HugpUHS2NI6OU6gU97Wx4FkEd46r8c=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
+2025-05-06 14:34:01 [INFO] LogWrapper initialized. Logging to file: ./logs/SocketConnection.log
+2025-05-06 14:34:01 [DEBUG] WebSocket connection established
+2025-05-06 14:34:01 [DEBUG] Login with: {'Id': '0cbb7501-89b5-4da5-b18c-773cfa15457f', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': 'a3b9d8b1-7cca-4545-bebb-f6dbdbaae57d', 'WebApiKey': 'j5gMezmY2HFbt68g', 'Timestamp': 1746522241999, 'Signature': 'qsp5MhlBN5zOgt9M/iPu47caPjxIAIi+FAmIBgFIGJw=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}

@@ -1,0 +1,42 @@
+{
+  "XAUUSD": {
+    "Symbol": "XAUUSD",
+    "Precision": 2,
+    "TradeAmountStep": 1.0
+  },
+  "XNGUSD": {
+    "Symbol": "XNGUSD",
+    "Precision": 3,
+    "TradeAmountStep": 1000.0
+  },
+  "XAGUSD": {
+    "Symbol": "XAGUSD",
+    "Precision": 3,
+    "TradeAmountStep": 50.0
+  },
+  "XTIUSD": {
+    "Symbol": "XTIUSD",
+    "Precision": 2,
+    "TradeAmountStep": 10.0
+  },
+  "#ESX50": {
+    "Symbol": "#ESX50",
+    "Precision": 1,
+    "TradeAmountStep": 1.0
+  },
+  "#UK100": {
+    "Symbol": "#UK100",
+    "Precision": 1,
+    "TradeAmountStep": 1.0
+  },
+  "#WS30m": {
+    "Symbol": "#WS30m",
+    "Precision": 1,
+    "TradeAmountStep": 0.1
+  },
+  "#HSI_L": {
+    "Symbol": "#HSI_L",
+    "Precision": 1,
+    "TradeAmountStep": 1.0
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "trade_risk": 1.5,
+    "rolling_data_path": "./data/",
+    "granularity": "M1",
+    "update_interval": 60,
+    "pairs": {
+        "XAUUSD": {
+            "n_ma": 12,
+            "n_std": 2.0,
+            "ema_period": 200,
+            "rsi_period": 14,
+            "maxspread": 0.04,
+            "mingain": 0.06,
+            "riskreward": 3
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "local_request_date": "2025-04-07 12:10:10",
+  "response_data": {
+    "From": 1744008000000,
+    "To": 1744008000000,
+    "Bars": [
+      {
+        "Timestamp": 1744008000000,
+        "Open": 3029.21,
+        "High": 3029.46,
+        "Low": 3028.82,
+        "Close": 3029.07,
+        "Volume": 49.0
+      }
+    ],
+    "Symbol": "XAUUSD",
+    "AvailableFrom": 866073600000,
+    "AvailableTo": 1744008000000,
+    "LastTickId": "2025.04.07 06:40:10.237"
+  }
+}

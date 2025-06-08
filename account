@@ -1,0 +1,49 @@
+{
+  "local_request_date": "2025-04-28 13:39:33",
+  "response_data": {
+    "Id": 28502000,
+    "AccountingType": "Gross",
+    "Name": "Mohammed Sohail F kustagi",
+    "FirstName": "Mohammed Sohail F",
+    "LastName": "kustagi",
+    "Phone": "+917795293598",
+    "Country": "INDIA",
+    "State": "",
+    "City": "GADAG BETIGERI",
+    "Address": "Vivekananda road 3rd cross JT college Gadag",
+    "ZipCode": "582101",
+    "Email": "sohailkustagi1234@gmail.com",
+    "Comment": "",
+    "Registered": 1740655569556,
+    "Modified": 1744947798023,
+    "IsArchived": false,
+    "IsBlocked": false,
+    "IsReadonly": false,
+    "IsValid": true,
+    "IsWebApiEnabled": true,
+    "Leverage": 33,
+    "Balance": 5038.66,
+    "BalanceCurrency": "USD",
+    "Profit": 0.0,
+    "Commission": 0.0,
+    "AgentCommission": 0.0,
+    "Swap": 0.0,
+    "Rebate": 0.0,
+    "Equity": 5038.66,
+    "Margin": 0.0,
+    "MarginCallLevel": 100,
+    "StopOutLevel": 50,
+    "ReportCurrency": "USD",
+    "IsTokenCommissionEnabled": false,
+    "Throttling": [
+      {
+        "Protocol": "Rest",
+        "SessionsPerAccount": 2,
+        "RequestsPerSecond": 5,
+        "ThrottlingMethods": [],
+        "ConcurrentRequestCount": 100
+      }
+    ],
+    "IsLongOnly": false
+  }
+}
